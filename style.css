@@ -693,7 +693,7 @@ padding:var(--padding);
         }
         .product__img{
         width:100%;
-        height:10rem;
+        height:12rem;
         }
 
         .product__body{
@@ -706,14 +706,21 @@ padding:var(--padding);
 
 
       .products .card{
-      height: 24rem;
+      height: 26rem;
       width:18rem;
 
       }
 
+.product-details{
+
+width:18rem;
+
+}
+.product__details-left img{
+width:18rem;
 
 
- 
- }
+}
+}
 
  
